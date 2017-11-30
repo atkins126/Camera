@@ -1,6 +1,8 @@
 # Camera
 Cross-platform Camera for Delphi that supports newer APIs
 
+**** NOTE **** This project is on indefinite hold due to other committments. Please feel free to fork/use the code, however
+
 This project aims to implement camera support on devices on multiple platforms, using newer APIs
 
 Usage:
@@ -8,14 +10,6 @@ Usage:
   Documentation is coming. Examine the demo project
 
   Prior to building the demo (or a project that you include Camera support), you will need to modify BuildJar.bat to suit your environment, and run it to build the jar, which will then need to be added to the project in the Libraries node under Android in the Target Platforms list in the Project Manager. You will likely need to modify BuildJar.bat to suit your environment
-
-
-Reporting issues:
-
-  Please report issues to the Github project from whence this came:
-
-  https://github.com/DelphiWorlds/Camera/issues
-
 
 Release history:
 
