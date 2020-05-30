@@ -1,7 +1,7 @@
 # Camera
 Cross-platform Camera for Delphi that supports newer APIs
 
-**** NOTE **** This project is on indefinite hold due to other committments. Please feel free to fork/use the code, however
+**** NOTE **** This project is planned to be moved into [Kastri](https://github.com/DelphiWorlds/Kastri), and support for iOS is also planned. Please visit that repo and consider becoming a sponsor to help make new features a reality! 
 
 This project aims to implement camera support on devices on multiple platforms, using newer APIs
 
